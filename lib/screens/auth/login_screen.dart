@@ -1,6 +1,6 @@
-import 'package:draf_project/controller/login_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:s_store/controller/login_controller.dart';
 import '../../common/widgets/primary_button.dart';
 import '../../common/widgets/social_login_button.dart';
 import '../../routes/app_routes.dart';

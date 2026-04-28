@@ -1,13 +1,14 @@
-import 'package:draf_project/screens/auth/forget_password_screen.dart';
-import 'package:draf_project/screens/auth/login_screen.dart';
-import 'package:draf_project/screens/auth/register_screen.dart';
-import 'package:draf_project/screens/auth/register_success_screen.dart';
-import 'package:draf_project/screens/auth/reset_email_sent_screen.dart';
-import 'package:draf_project/screens/auth/verify_email_screen.dart';
-import 'package:draf_project/screens/onboarding/onboarding_screen.dart';
+
 import 'package:flutter/material.dart';
+import 'package:s_store/screens/auth/forget_password_screen.dart';
+import 'package:s_store/screens/auth/login_screen.dart';
+import 'package:s_store/screens/auth/register_screen.dart';
+import 'package:s_store/screens/auth/register_success_screen.dart';
+import 'package:s_store/screens/auth/reset_email_sent_screen.dart';
+import 'package:s_store/screens/auth/verify_email_screen.dart';
+import 'package:s_store/screens/onboarding/onboarding_screen.dart';
+import 'package:s_store/screens/splash/splash_screen.dart';
 import '../screens/home/main_navigation_screen.dart';
-import '../screens/spalsh/splash_screen.dart';
 
 class AppRoutes {
   static const String splash = '/';
